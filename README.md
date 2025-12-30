@@ -18,8 +18,10 @@ The project focuses on core logic and data handling without a frontend interface
 - Python
 
 ## How to Run
-1. Clone the repository
-2. Make sure Python is installed
-3. Run the following command in the project folder:
+1. Clone or download this repository.
+2. Ensure Python (version 3.x) is installed on your system.
+3. Open a terminal in the project directory and run:
+
 ```bash
-python "cs_project_XII.py"
+python cs_project_XII.py
+
