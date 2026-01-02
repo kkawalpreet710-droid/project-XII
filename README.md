@@ -4,6 +4,10 @@
 A Python-based Apple Store management system developed as an academic project.
 The project focuses on core logic and data handling without a frontend interface.
 
+## Purpose
+This project was created as part of my Class XII Computer Science coursework
+to understand Python programming, file handling, and basic logic building.
+
 ## Features
 -	Viewing item lists and product details 
 -	Purchasing phones and other accessories 
@@ -24,4 +28,5 @@ The project focuses on core logic and data handling without a frontend interface
 
 ```bash
 python cs_project_XII.py
+
 
